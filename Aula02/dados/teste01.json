@@ -1,0 +1,538 @@
+{
+  "grupo_01": {
+    "tempo_por_zona_s": {
+      "Texturas": 32.625,
+      "Botoes": 18.5,
+      "Ziper": 7.5417,
+      "Sinos": 4.8333,
+      "Espelho": 5.5833
+    },
+    "deteccoes_por_zona": {
+      "Texturas": 783,
+      "Botoes": 444,
+      "Ziper": 181,
+      "Sinos": 116,
+      "Espelho": 134
+    },
+    "descartados": 164,
+    "total_linhas": 1822,
+    "deteccoes_em_zona": 1658,
+    "duracao_s": 89.0417,
+    "taxa_deteccao_pct": 85.26,
+    "zona_mais_quente": "Texturas",
+    "zona_mais_fria": "Sinos",
+    "CODIGO": "TEX-326-1658",
+    "zonas": [
+      {
+        "nome": "Texturas",
+        "x": 0.0,
+        "y": 20.0,
+        "larg": 24.0,
+        "alt": 20.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 24.0,
+        "y": 20.0,
+        "larg": 20.0,
+        "alt": 20.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 0.0,
+        "y": 0.0,
+        "larg": 12.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 30.0,
+        "y": 0.0,
+        "larg": 17.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 14.0,
+        "y": 13.0,
+        "larg": 10.0,
+        "alt": 13.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "TEX-367-2107",
+      "ultima_zona": "ESP-191-1658",
+      "vizinha_mais_proxima": "TEX-326-1822",
+      "duracao_ingenua_s": 75.9167
+    }
+  },
+  "grupo_02": {
+    "tempo_por_zona_s": {
+      "Botoes": 37.9167,
+      "Texturas": 12.9583,
+      "Sinos": 6.0,
+      "Ziper": 9.1667,
+      "Espelho": 9.1667
+    },
+    "deteccoes_por_zona": {
+      "Botoes": 910,
+      "Texturas": 311,
+      "Sinos": 144,
+      "Ziper": 220,
+      "Espelho": 220
+    },
+    "descartados": 194,
+    "total_linhas": 1999,
+    "deteccoes_em_zona": 1805,
+    "duracao_s": 96.5833,
+    "taxa_deteccao_pct": 86.24,
+    "zona_mais_quente": "Botoes",
+    "zona_mais_fria": "Sinos",
+    "CODIGO": "BOT-379-1805",
+    "zonas": [
+      {
+        "nome": "Botoes",
+        "x": 2.0,
+        "y": 21.0,
+        "larg": 22.0,
+        "alt": 18.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 24.0,
+        "y": 21.0,
+        "larg": 21.0,
+        "alt": 18.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 13.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 31.0,
+        "y": 1.0,
+        "larg": 16.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 15.0,
+        "y": 14.0,
+        "larg": 9.0,
+        "alt": 12.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "BOT-434-2365",
+      "ultima_zona": "ESP-257-1805",
+      "vizinha_mais_proxima": "BOT-385-1999",
+      "duracao_ingenua_s": 83.2917
+    }
+  },
+  "grupo_03": {
+    "tempo_por_zona_s": {
+      "Ziper": 31.4167,
+      "Sinos": 17.7083,
+      "Texturas": 9.5,
+      "Botoes": 6.0417,
+      "Espelho": 2.5833
+    },
+    "deteccoes_por_zona": {
+      "Ziper": 754,
+      "Sinos": 425,
+      "Texturas": 228,
+      "Botoes": 145,
+      "Espelho": 62
+    },
+    "descartados": 168,
+    "total_linhas": 1782,
+    "deteccoes_em_zona": 1614,
+    "duracao_s": 86.0417,
+    "taxa_deteccao_pct": 86.3,
+    "zona_mais_quente": "Ziper",
+    "zona_mais_fria": "Espelho",
+    "CODIGO": "ZIP-314-1614",
+    "zonas": [
+      {
+        "nome": "Ziper",
+        "x": 1.0,
+        "y": 22.0,
+        "larg": 25.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 26.0,
+        "y": 22.0,
+        "larg": 19.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 13.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 32.0,
+        "y": 2.0,
+        "larg": 15.0,
+        "alt": 14.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 16.0,
+        "y": 15.0,
+        "larg": 10.0,
+        "alt": 12.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "ZIP-364-2020",
+      "ultima_zona": "ZIP-211-1614",
+      "vizinha_mais_proxima": "ZIP-316-1782",
+      "duracao_ingenua_s": 74.25
+    }
+  },
+  "grupo_04": {
+    "tempo_por_zona_s": {
+      "Sinos": 38.2917,
+      "Espelho": 10.6667,
+      "Botoes": 6.5417,
+      "Texturas": 15.8333,
+      "Ziper": 4.5417
+    },
+    "deteccoes_por_zona": {
+      "Sinos": 919,
+      "Espelho": 256,
+      "Botoes": 157,
+      "Texturas": 380,
+      "Ziper": 109
+    },
+    "descartados": 212,
+    "total_linhas": 2033,
+    "deteccoes_em_zona": 1821,
+    "duracao_s": 97.8333,
+    "taxa_deteccao_pct": 86.58,
+    "zona_mais_quente": "Sinos",
+    "zona_mais_fria": "Ziper",
+    "CODIGO": "SIN-383-1821",
+    "zonas": [
+      {
+        "nome": "Sinos",
+        "x": 0.0,
+        "y": 19.0,
+        "larg": 23.0,
+        "alt": 20.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 23.0,
+        "y": 19.0,
+        "larg": 21.0,
+        "alt": 20.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 12.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 30.0,
+        "y": 1.0,
+        "larg": 17.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 14.0,
+        "y": 12.0,
+        "larg": 9.0,
+        "alt": 13.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "SIN-430-2304",
+      "ultima_zona": "SIN-244-1821",
+      "vizinha_mais_proxima": "SIN-385-2033",
+      "duracao_ingenua_s": 84.7083
+    }
+  },
+  "grupo_05": {
+    "tempo_por_zona_s": {
+      "Texturas": 28.875,
+      "Ziper": 11.0,
+      "Espelho": 12.5,
+      "Sinos": 5.625,
+      "Botoes": 2.6667
+    },
+    "deteccoes_por_zona": {
+      "Texturas": 693,
+      "Ziper": 264,
+      "Espelho": 300,
+      "Sinos": 135,
+      "Botoes": 64
+    },
+    "descartados": 164,
+    "total_linhas": 1620,
+    "deteccoes_em_zona": 1456,
+    "duracao_s": 78.125,
+    "taxa_deteccao_pct": 86.4,
+    "zona_mais_quente": "Texturas",
+    "zona_mais_fria": "Botoes",
+    "CODIGO": "TEX-289-1456",
+    "zonas": [
+      {
+        "nome": "Texturas",
+        "x": 3.0,
+        "y": 23.0,
+        "larg": 21.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 24.0,
+        "y": 23.0,
+        "larg": 20.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 1.0,
+        "y": 2.0,
+        "larg": 13.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 31.0,
+        "y": 2.0,
+        "larg": 16.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 15.0,
+        "y": 16.0,
+        "larg": 9.0,
+        "alt": 12.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "TEX-329-1830",
+      "ultima_zona": "TEX-183-1456",
+      "vizinha_mais_proxima": "TEX-295-1620",
+      "duracao_ingenua_s": 67.5
+    }
+  },
+  "grupo_06": {
+    "tempo_por_zona_s": {
+      "Espelho": 33.2917,
+      "Sinos": 9.5,
+      "Ziper": 4.9583,
+      "Botoes": 8.7083,
+      "Texturas": 8.6667
+    },
+    "deteccoes_por_zona": {
+      "Espelho": 799,
+      "Sinos": 228,
+      "Ziper": 119,
+      "Botoes": 209,
+      "Texturas": 208
+    },
+    "descartados": 184,
+    "total_linhas": 1747,
+    "deteccoes_em_zona": 1563,
+    "duracao_s": 86.4167,
+    "taxa_deteccao_pct": 84.23,
+    "zona_mais_quente": "Espelho",
+    "zona_mais_fria": "Ziper",
+    "CODIGO": "ESP-333-1563",
+    "zonas": [
+      {
+        "nome": "Espelho",
+        "x": 2.0,
+        "y": 20.0,
+        "larg": 24.0,
+        "alt": 19.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 26.0,
+        "y": 20.0,
+        "larg": 18.0,
+        "alt": 19.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 13.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 32.0,
+        "y": 2.0,
+        "larg": 14.0,
+        "alt": 14.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 16.0,
+        "y": 13.0,
+        "larg": 10.0,
+        "alt": 12.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "ESP-374-2013",
+      "ultima_zona": "TEX-223-1563",
+      "vizinha_mais_proxima": "ESP-341-1747",
+      "duracao_ingenua_s": 72.7917
+    }
+  },
+  "grupo_07": {
+    "tempo_por_zona_s": {
+      "Botoes": 32.25,
+      "Espelho": 9.7083,
+      "Texturas": 5.9583,
+      "Sinos": 8.9583,
+      "Ziper": 8.7917
+    },
+    "deteccoes_por_zona": {
+      "Botoes": 774,
+      "Espelho": 233,
+      "Texturas": 143,
+      "Sinos": 215,
+      "Ziper": 211
+    },
+    "descartados": 170,
+    "total_linhas": 1746,
+    "deteccoes_em_zona": 1576,
+    "duracao_s": 83.625,
+    "taxa_deteccao_pct": 87.0,
+    "zona_mais_quente": "Botoes",
+    "zona_mais_fria": "Texturas",
+    "CODIGO": "BOT-322-1576",
+    "zonas": [
+      {
+        "nome": "Botoes",
+        "x": 1.0,
+        "y": 24.0,
+        "larg": 23.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 24.0,
+        "y": 24.0,
+        "larg": 20.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 13.0,
+        "alt": 18.0
+      },
+      {
+        "nome": "Sinos",
+        "x": 30.0,
+        "y": 2.0,
+        "larg": 17.0,
+        "alt": 15.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 15.0,
+        "y": 17.0,
+        "larg": 9.0,
+        "alt": 11.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "BOT-367-2007",
+      "ultima_zona": "ZIP-212-1576",
+      "vizinha_mais_proxima": "BOT-327-1746",
+      "duracao_ingenua_s": 72.75
+    }
+  },
+  "grupo_08": {
+    "tempo_por_zona_s": {
+      "Sinos": 31.0417,
+      "Texturas": 16.9583,
+      "Ziper": 5.5,
+      "Espelho": 5.2083,
+      "Botoes": 5.25
+    },
+    "deteccoes_por_zona": {
+      "Sinos": 745,
+      "Texturas": 407,
+      "Ziper": 132,
+      "Espelho": 125,
+      "Botoes": 126
+    },
+    "descartados": 149,
+    "total_linhas": 1684,
+    "deteccoes_em_zona": 1535,
+    "duracao_s": 83.1667,
+    "taxa_deteccao_pct": 84.37,
+    "zona_mais_quente": "Sinos",
+    "zona_mais_fria": "Espelho",
+    "CODIGO": "SIN-310-1535",
+    "zonas": [
+      {
+        "nome": "Sinos",
+        "x": 0.0,
+        "y": 22.0,
+        "larg": 21.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Texturas",
+        "x": 21.0,
+        "y": 22.0,
+        "larg": 23.0,
+        "alt": 17.0
+      },
+      {
+        "nome": "Ziper",
+        "x": 1.0,
+        "y": 1.0,
+        "larg": 13.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Espelho",
+        "x": 31.0,
+        "y": 2.0,
+        "larg": 16.0,
+        "alt": 16.0
+      },
+      {
+        "nome": "Botoes",
+        "x": 12.0,
+        "y": 15.0,
+        "larg": 9.0,
+        "alt": 12.0
+      }
+    ],
+    "codigos_errados": {
+      "fronteira_<=": "SIN-348-1944",
+      "ultima_zona": "SIN-190-1535",
+      "vizinha_mais_proxima": "SIN-315-1684",
+      "duracao_ingenua_s": 70.1667
+    }
+  }
+}
